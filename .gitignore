@@ -20,3 +20,11 @@ yarn-error.log
 /.idea
 /.vscode
 /.zed
+.DS_Store
+composer.lock
+package-lock.json
+public/css/app.css
+public/js/app.js
+/public/vendor/horizon
+/public/vendor/horizon/*
+phpunit.xml
